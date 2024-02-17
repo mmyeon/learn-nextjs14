@@ -1,6 +1,6 @@
 import { Metadata } from "next";
-import MovieInfo from "../../../components/movie-info";
-import MovieVidoes from "../../../components/moview-videos";
+import MovieInfo from "../../../../components/movie-info";
+import MovieVidoes from "../../../../components/moview-videos";
 import { Suspense } from "react";
 
 export const metadata: Metadata = {
